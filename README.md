@@ -44,23 +44,52 @@ This project features **role-specific dashboards and controls** for:
 
 ## 📷 Screenshots
 
-### 👤 User Screens
-
-| ![](https://your-user-screenshot-link-1) | ![](https://your-user-screenshot-link-2) | ![](https://your-user-screenshot-link-3) |
+<h3>👤 User Screens</h3>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7dc4674f-0cfe-4525-a40d-d8e3d004a2de" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/bfa342a4-6938-4c58-9799-256285b17ca7" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/009c75a1-f5e3-4bb4-a7a9-1b438225d050" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/650e82de-52ec-4e31-a20f-8e8f1f335cd8" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/6c556631-10bc-4e04-9d48-27c72e59c1c4" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/3fac0502-35ec-4186-a7e4-1eea842f2cd3" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/97ea9506-22e8-420b-94e7-a6cad0683cd3" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/519a4351-40d2-4031-a207-08841f119cc1" width="300"></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
-### 🧑‍🌾 Seller Screens
-
-| ![](https://your-seller-screenshot-link-1) | ![](https://your-seller-screenshot-link-2) | ![](https://your-seller-screenshot-link-3) |
+<h3>🧑‍🌾 Seller Screens</h3>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/087d20f9-fa28-4cbc-99b4-7e9b4985a7e6" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/638677b7-23c3-4d52-8cfb-b1000cd70e2e" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/22a6754a-2dee-4685-8ab3-d48520921210" width="300"></td>
+  </tr>
+</table>
 
 ---
 
-### 🛡️ Admin Screens
+<h3>🛡️ Admin Screens</h3>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/618d0d5b-8f95-4a03-a8ac-2c2e945fa198" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/16fb6324-ab0b-4333-b327-c44e138b1a5c" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/e8259da2-76bc-4d97-994f-5b351e04e06d" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b3154f96-44ca-4325-949f-4518bd817592" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/dfbe151e-6b10-475a-9d23-06ec53321dcc" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/94337f2d-598f-4a7c-88dc-30d41f638884" width="300"></td>
+  </tr>
+</table>
 
-| ![](https://your-admin-screenshot-link-1) | ![](https://your-admin-screenshot-link-2) | ![](https://your-admin-screenshot-link-3) |
-
----
 
 ## 🔗 Links
 
