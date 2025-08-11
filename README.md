@@ -11,7 +11,7 @@
 - **Frontend**: EJS templating, Bootstrap, Server-side rendering  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB (via Mongoose)  
-- **Authentication**: JWT & Cookie-based auth  
+- **Authentication**: Session-based authentication 
 - **Payments**: Razorpay integration    
 - **File Uploads**: Multer  
 - **Other Tools**: Nodemailer (Email), Twilio (SMS)
@@ -107,4 +107,4 @@ Business logic, middleware, full authentication, and deployment credentials are 
 
 ## 📫 Contact
 
-For access to the full source or inquiries regarding collaboration, feel free to reach out via GitHub or email.
+For access to the full source or inquiries regarding collaboration, feel free to reach out via GitHub or email at your.akhileshpookkuttiyil@gmail.com.
