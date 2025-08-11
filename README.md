@@ -93,7 +93,7 @@ This project features **role-specific dashboards and controls** for:
 
 ## 🔗 Links
 
-- **Live Demo**: [https://purefarmgoods-demo.vercel.app](https://purefarmgoods-demo.vercel.app) *(replace with your actual link)*  
+- **Live Demo**: [[https://purefarmfoods.onrender.com](https://purefarmfoods.onrender.com)]
 - **Full Access**: Available upon request (for employers or collaborators)
 
 ---
