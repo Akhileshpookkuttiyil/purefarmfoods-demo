@@ -107,4 +107,7 @@ Business logic, middleware, full authentication, and deployment credentials are 
 
 ## 📫 Contact
 
-For access to the full source or inquiries regarding collaboration, feel free to reach out via GitHub or email at your.akhileshpookkuttiyil@gmail.com.
+## 📫 Contact
+
+For access to the full source or inquiries regarding collaboration, feel free to reach out via <a href="https://github.com/yourusername">GitHub</a> or email at <span style="font-size: 12px;">akhileshpookkuttiyil@gmail.com</span>.
+
